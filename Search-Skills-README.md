@@ -54,6 +54,9 @@ The results should be treated as supporting evidence and verified with additiona
 - Search results should be evaluated carefully because online information may be incomplete, outdated, or inaccurate.
 - Tools and proof-of-concept code should only be used in authorized environments.
 
+  <img width="828" height="905" alt="Screenshot 2026-09-22 at 9 10 27 PM" src="https://github.com/user-attachments/assets/32bc0a26-0e6b-4b69-bf78-e7fce7a8fd55" />
+
+
 ## Key Takeaway
 
 Effective searching is an important skill in cybersecurity. Finding the right information quickly can help analysts investigate threats, understand vulnerabilities, identify indicators of compromise, and make better security decisions.
